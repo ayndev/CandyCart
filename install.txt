@@ -1,0 +1,23 @@
+Candy Cart
+- - - - - -
+Installation guide
+
+To install the application in dev mode follow these steps:
+	1. Connect your iPhone to MAC via wire;
+	2. Open the project in Xcode;
+	3. Change Run mode to "Release";
+	4. Select Project->Archive;
+	5. Press "Run".
+Application will be installed and launched on your iPhone device.
+
+To set the project in Xcode follow these steps:
+	1. Open Xcode;
+	2. Select "Open" or press "cmd"+"O";
+	3. Open folder which contains project;
+	4. Select eCommerce.xproj;
+	5. Press Enter.
+	
+To launch the application in debug mode using simulator follow these steps:
+	1. Select iPhone version as simulator;
+	2. Select "Run" mode;
+	3. Press "Run" or "cmd"+"R".
